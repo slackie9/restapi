@@ -1,0 +1,24 @@
+[
+    {
+        "nama": "Slackie",
+        "umur": 32,
+        "nim": "0624123456",
+        "lulus": true,
+        "hobby": ["coding", "gaming", "hacking"],
+        "pembimbing": {
+            "pembimbing1": "Nobita",
+            "pembimbing2": "Doraemon"
+        }
+    },
+    {
+        "nama": "Slackie",
+        "umur": 32,
+        "nim": "0624123456",
+        "lulus": true,
+        "hobby": ["coding", "gaming", "hacking"],
+        "pembimbing": {
+            "pembimbing1": "Nobita",
+            "pembimbing2": "Doraemon"
+        }
+    }
+]
